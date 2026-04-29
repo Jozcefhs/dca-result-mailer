@@ -1,1 +1,8 @@
-"some" jame
+{
+  "version": "2.3.0",
+  "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.3.0/DCA_Result_Mailer_Setup_v2.3.0.exe",
+  "notes": "Updated Offer of Admission wording and added auto-update support."
+}
+
+
+
