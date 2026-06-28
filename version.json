@@ -1,6 +1,15 @@
 {
-  "version": "2.4.0",
-  "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.4.0/DCA_Result_Mailer_Setup_v2.4.0.exe",
-  "notes": "Added Admission Form Sale, unique access code, improved interface layout, and admission number auto-generation."
+  "version": "2.4.3",
+  "app_name": "DCA Admissions Suite",
+  "installer_url": "https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/releases/download/v2.4.3/DCA_Admissions_Suite_Setup_v2.4.3.exe",
+  "notes": [
+    "Renamed application to DCA Admissions Suite.",
+    "Added Admission Form Sale module.",
+    "Added secure verification code workflow.",
+    "Added online admission application portal.",
+    "Added parent confirmation email.",
+    "Added admissions office notification email.",
+    "Improved PDF layout and user interface.",
+    "General bug fixes and stability improvements."
+  ]
 }
-
