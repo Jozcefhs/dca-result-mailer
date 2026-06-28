@@ -1,5 +1,5 @@
 {
-  "version": "2.4.3",
-  "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.4.3/DCA_Admissions_Suite_Setup_v2.4.3.exe",
-  "notes": "Renamed to DCA Admissions Suite. Added Admission Form Sale, online application portal, verification code workflow, confirmation emails, notification emails, and numerous stability improvements."
+  "version": "2.4.4",
+  "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.4.4/DCA_Admissions_Suite_Setup_v2.4.4.exe",
+  "notes": "Test update release to confirm auto-update from DCA Admissions Suite v2.4.3."
 }
