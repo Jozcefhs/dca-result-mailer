@@ -1,26 +1,5 @@
 {
   "version": "2.7.7",
   "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.7.7/DCA_Admissions_Suite_Setup_v2.7.7.exe",
-  "notes": "DCA Admissions Suite v2.7.7 Release Notes,
-DCA Admissions Suite v2.7.7 strengthens the admissions workflow by adding payment-gated admission letters and student enrollment control.,
-New Features,
-Added Acceptance Fee tracking.,
-Added Paid workflow status.,
-Added Acceptance Fee dashboard count.,
-Added Acceptance Fee fields:Paid status,
-Paid date,
-Amount,
-Payment method,
-Receipt number,
-Received by,
-
-Admission Letters are now blocked until Acceptance Fee is marked as paid.,
-Batch Admission Letter sending now separates eligible and blocked applicants.,
-Added individual Enroll Student action.,
-Added batch Enroll Students action.,
-Added automatic creation of a Students sheet through the Apps Script backend.,
-Added duplicate enrollment protection using Application Reference and Admission Number.,
-Added enrollment fields:Enrolled,
-Enrolled date,
-Enrolled by",
+  "notes": "DCA Admissions Suite v2.7.7 Release Notes\n\nDCA Admissions Suite v2.7.7 strengthens the admissions workflow by adding payment-gated admission letters and student enrollment control.\n\nNew Features\n- Added Acceptance Fee tracking.\n- Added Paid workflow status.\n- Added Acceptance Fee dashboard count.\n- Added Acceptance Fee fields: Paid status, Paid date, Amount, Payment method, Receipt number, Received by.\n- Admission Letters are now blocked until Acceptance Fee is marked as paid.\n- Batch Admission Letter sending now separates eligible and blocked applicants.\n- Added individual Enroll Student action.\n- Added batch Enroll Students action.\n- Added automatic creation of a Students sheet through the Apps Script backend.\n- Added duplicate enrollment protection using Application Reference and Admission Number.\n- Added enrollment fields: Enrolled, Enrolled date, Enrolled by.\n\nWorkflow\nApplication Submitted > Entrance Result: Admitted > Offer of Admission Sent > Acceptance Fee Paid > Admission Letter Sent > Student Enrolled\n\nFixes and Improvements\n- Fixed Acceptance Fee batch update failure caused by the backend rejecting Paid.\n- Improved batch update error messages to show the actual failure reason.\n- Restored visibility of the Save button in individual application records.\n- Updated version metadata to v2.7.7.\n- Updated installer script for v2.7.7.\n- Fixed PyInstaller version file format for successful builds.\n\nBackend Update Required\nDeploy DCA_Admission_Backend_v2_7_7_Unified.gs to Google Apps Script and publish a new web app version."
 }
