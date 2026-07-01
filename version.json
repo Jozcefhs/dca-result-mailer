@@ -1,5 +1,5 @@
 {
-  "version": "2.7.8",
-  "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.7.8/DCA_Admissions_Suite_Setup_v2.7.8.exe",
-  "notes": "DCA Admissions Suite v2.7.8 Release Notes\n\nNew Features\n- Added Acceptance Fee payment tracking fields.\n- Added Paid workflow status and Acceptance Fee Paid dashboard count.\n- Blocked Admission Letter sending until Acceptance Fee is marked paid.\n- Added batch Admission Letter eligibility check for unpaid applicants.\n- Added guarded Student Enrollment from individual application records.\n- Added batch Enroll Students action for eligible applicants.\n- Added Apps Script Students sheet support with duplicate enrollment protection.\n- Added expanded online application form fields from the legacy form.\n- Added Religion, NIN, Class Completed, Transfer Certificate/Testimonial, parent office addresses, Living With, school-background questions, and expanded declaration text.\n- Added required-field indicators and Pre Nursery to the class lists.\n\nBackend Update Required\nDeploy DCA_Admission_Backend_v2_7_8_Unified.gs to Google Apps Script and publish a new web app version."
+  "version": "2.7.9",
+  "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.7.9/DCA_Admissions_Suite_Setup_v2.7.9.exe",
+  "notes": "DCA Admissions Suite v2.7.9 Release Notes\n\nBugs Fixes\n- Fixed naira sign encoding in admission form sale emails and saved sale records.\n- Cleaned corrupted UTF-8 punctuation in email templates and log messages."
 }
