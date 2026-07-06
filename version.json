@@ -1,5 +1,5 @@
 {
-  "version": "2.7.9",
-  "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.7.9/DCA_Admissions_Suite_Setup_v2.7.9.exe",
-  "notes": "DCA Admissions Suite v2.7.9 Release Notes\n\nBugs Fixes\n- Fixed naira sign encoding in admission form sale emails and saved sale records.\n- Cleaned corrupted UTF-8 punctuation in email templates and log messages."
+  "version": "2.8.0",
+  "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.8.0/DCA_Admissions_Suite_Setup_v2.8.0.exe",
+  "notes": "DCA Admissions Suite v2.8.0 Release Notes\n\nNew Features Added\n- User role added.\n- Account, Kitchen and clinic added."
 }
