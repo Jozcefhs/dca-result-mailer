@@ -1,5 +1,5 @@
 {
-  "version": "2.8.0",
-  "installer_url": "https://github.com/Jozcefhs/dca-result-mailer/releases/download/v2.8.0/DCA_Admissions_Suite_Setup_v2.8.0.exe",
-  "notes": "DCA Admissions Suite v2.8.0 Release Notes\n\nNew Features Added\n- User role added.\n- Account, Kitchen and clinic added."
+  "version": "3.0.0",
+  "installer_url": "https://github.com/Jozcefhs/dcs/releases/download/v3.0.0/Integrated_School_Management_Suite_Setup_v3.0.0.exe",
+  "notes": "Major upgrade: renamed to Integrated School Management Suite, added Firestore backend migration and PC/SC NFC wallet card support."
 }
